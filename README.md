@@ -1,3 +1,3 @@
 # Spotify-clone
-Web clonning project
+Web clonning project.
 Author - Priyanka Singh
