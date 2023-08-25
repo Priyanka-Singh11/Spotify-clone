@@ -1,4 +1,4 @@
 # Spotify-clone
 Web clonning project.
 <br>
-Author - Priyanka Singh
+Author - Priyanka Singh (Me)
